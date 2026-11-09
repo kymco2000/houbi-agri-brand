@@ -2,6 +2,15 @@
 
 以後壁自耕農為案例，從供應盤點、競品查價、詢價到同批收益比較。包括洋香瓜公開市調、稻米方案 A 與可重用的 Codex 技能。
 
+## 從這個網址接手專案
+
+1. 先看下方兩個個案與 Excel，直接在 GitHub 閱讀 Markdown 或下載工作簿。
+2. 要用 Codex 接續，安裝本頁的專案技能後，輸入 `$houbi-agri-market 先讀兩個個案，列出現況與下一步`。
+3. 目前洋香瓜仍待農戶及買方訪查。稻米已完成競品查價及試算架構，待補農戶實際交售收支與碾米廠報價、出米率。填入 Excel 的黃色輸入欄後再比較收益。
+4. 想在本機一起使用 Obsidian 和 NotebookLM，依下方 Windows 安裝及 NotebookLM 協作步驟操作。
+
+[全部個人全域技能及安裝方式](SKILLS.md) 也隨 Repo 提供。接手本專案只需安裝 `houbi-agri-market`。
+
 ## 安裝 Codex 技能
 
 在 PowerShell 輸入。需要支援 `gh skill` 的 GitHub CLI。

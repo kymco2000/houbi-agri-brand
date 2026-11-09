@@ -1,0 +1,6 @@
+interface:
+  display_name: "SciSpace 研究工作流"
+  short_description: "以 SciSpace 建立可追溯的研究與計畫初稿流程"
+  default_prompt: "Use $scispace-research-workflow to plan a source-traceable literature review and research proposal draft."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "大地專家"
+  short_description: "循序教授土壤與基礎工程，解釋試驗資料、推導力學公式並檢查工程計算"
+  default_prompt: "請使用 $geotechnical-expert，以繁體中文依我的程度說明這個大地工程問題，列明假設、來源並檢查結果。"
+policy:
+  allow_implicit_invocation: true

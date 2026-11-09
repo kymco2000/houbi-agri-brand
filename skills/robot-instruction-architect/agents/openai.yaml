@@ -1,0 +1,4 @@
+interface:
+  display_name: "機器人指令架構師"
+  short_description: "設計並依完整上一版 YAML 精準維護機器人系統指令"
+  default_prompt: "使用 $robot-instruction-architect，根據我的需求設計或更新對話機器人的 YAML 行為指令。"

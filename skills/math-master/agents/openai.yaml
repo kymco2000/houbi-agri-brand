@@ -1,0 +1,4 @@
+interface:
+  display_name: "數學大師"
+  short_description: "依程度解題、說明概念、檢查推導並提供提示"
+  default_prompt: "使用 $math-master 協助我解答數學問題，並清楚說明關鍵步驟。"

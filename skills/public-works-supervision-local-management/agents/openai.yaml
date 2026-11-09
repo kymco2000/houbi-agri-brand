@@ -1,0 +1,4 @@
+interface:
+  display_name: "公共工程監造本機管理"
+  short_description: "依契約與核定文件建立可稽核的公共工程監造本機管理系統"
+  default_prompt: "Use $public-works-supervision-local-management to set up and operate a local public-works supervision system from the project contract and approved documents."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "模板大師"
+  short_description: "依契約圖說編寫模板計畫，協助支撐受力計算、地盤介面與獨立檢核"
+  default_prompt: "使用 $formwork-master 依本案圖說整理模板支撐設計條件，編寫施工計畫並複核計算。"

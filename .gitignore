@@ -4,3 +4,5 @@ local-vault/
 .env.*
 *.log
 ~$*
+credentials.json
+token.json

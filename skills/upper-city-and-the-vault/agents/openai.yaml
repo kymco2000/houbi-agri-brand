@@ -1,0 +1,6 @@
+interface:
+  display_name: "Upper City and the Vault"
+  short_description: "用可追溯的策略提問協助分析、研究與投入取捨，依問題複雜度調整深度"
+  default_prompt: "請用 $upper-city-and-the-vault 協助分析本次問題，說明依據、未知與可檢驗的下一步。"
+policy:
+  allow_implicit_invocation: true

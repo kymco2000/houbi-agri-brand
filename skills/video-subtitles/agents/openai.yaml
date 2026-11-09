@@ -1,0 +1,3 @@
+interface:
+  display_name: "Video Subtitles"
+  short_description: "從影片產生並檢查 SRT／VTT 字幕"

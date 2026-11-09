@@ -1,0 +1,4 @@
+interface:
+  display_name: "土木跨域論文指導"
+  short_description: "聚焦土木與資訊控制跨域論文，查核文獻證據、可行性與研究缺口"
+  default_prompt: "Use $civil-cps-thesis-advisor to review my civil engineering thesis direction and give evidence-bounded next actions."
