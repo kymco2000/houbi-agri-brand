@@ -1,0 +1,6 @@
+local-vault/
+.obsidian/
+.env
+.env.*
+*.log
+~$*
